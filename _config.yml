@@ -1,0 +1,12 @@
+# Build-time settings
+markdown: redcarpet
+exclude: ['README.md','Gemfile','Gemfile.lock']
+sass:
+  style: compressed
+  sass_dir: _sass
+baseurl: ""
+
+# Site settings
+title: Relative Paths Podcast
+subtitle: Web Development and stuff like that
+email: talk@relativepaths.uk
