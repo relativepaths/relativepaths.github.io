@@ -2,7 +2,7 @@
 markdown: redcarpet
 exclude: ['README.md','Gemfile','Gemfile.lock']
 sass:
-  style: compressed
+  # style: compressed
   sass_dir: _sass
 baseurl: ""
 
